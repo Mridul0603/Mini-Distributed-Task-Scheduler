@@ -1,6 +1,6 @@
 # Mini Distributed Task Scheduler
 
-A simplified Airflow-like task orchestration system built using Flask, Celery, and .
+A simplified Airflow-like task orchestration system built using Flask, Celery, and Redis.
 
 ## Architecture
 
